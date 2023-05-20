@@ -1,4 +1,3 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Tehuan Melo
 Hi there, I'm a software development student at 42 Abu Dhabi passionate about learning and building new things. I enjoy working with various programming languages and technologies, and constantly seek to improve my skills through practice and collaboration. Looking forward to sharing my projects and learning from the community!<br><br>
@@ -14,7 +13,7 @@ Email: tehuanmelo@gmail.com
 ![C++](https://img.shields.io/badge/c++-silver.svg?style=flat&logo=c%2B%2B&logoColor=black) 
 ![Python](https://img.shields.io/badge/python-silver?style=flat&logo=python&logoColor=black) 
 ![LINUX](https://img.shields.io/badge/Linux-silver?style=flat&logo=linux&logoColor=black)
-####
+<br/>
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-silver.svg?style=flat&logo=adobeillustrator&logoColor=black) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-silver.svg?style=flat&logo=adobephotoshop&logoColor=black) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-silver.svg?style=flat&logo=Adobe%20Lightroom&logoColor=black) 
