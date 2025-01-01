@@ -4,11 +4,6 @@ Hi there, I'm a software development student at 42 Abu Dhabi passionate about le
 Email: tehuanmelo@gmail.com
 <br>
 <br>
-Currently working on: <a target="_blank" href="https://github.com/tehuanmelo/inception">inception</a>
-
-[![](https://gtce.itsvg.in/api?username=tehuanmelo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tehuanmelo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tehuanmelo) 
